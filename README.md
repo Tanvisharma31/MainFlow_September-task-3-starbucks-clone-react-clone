@@ -214,12 +214,12 @@ firebase deploy
 
 ## Author
 
-- Prem Balaji B
+- Tanvi Sharma
 
 ---
 
 ## License
 
-- Licencesed under PremBalaji B
+- Licencesed under Tanvi Sharma
 
 ---
