@@ -25,7 +25,7 @@ function FooterTertiary({ showPrivacyLinks }) {
                         <Link className="footerTertiary__links">Cookie Preferences</Link>
                     </div>
                 </div>
-                <p className="footerTertiary__copyright">{COPYRIGHT} Developed By PremBalaji.<Link href='https://www.linkedin.com/in/prem-balaji-429583162/'> Click Here</Link></p>
+                <p className="footerTertiary__copyright">{COPYRIGHT} Developed By Tanvi Sharma.<Link href='https://www.linkedin.com/in/tanvi-sharma-918443234/'> Click Here</Link></p>
             </div>
         </Fade>
     )
